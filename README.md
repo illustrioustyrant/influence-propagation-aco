@@ -10,5 +10,4 @@ The experiments were conducted using datasets from the **Stanford Large Network 
 
 ## Tech Stack
 - Python
-- NetworkX (如果用了的话)
-- Numpy/Pandas
+- NetworkX
